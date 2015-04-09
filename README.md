@@ -3,11 +3,11 @@ La constitution Gabonaise
 
 La constitution Gabonaise sous __Git__.
 
+> Vous n'avez jamais lu le moindre article de la constitution ? Maintenant vous n'avez plus d'excuse pour ne pas le faire.
+
 Cet ouvrage est une reprise du texte (Révisée par la Loi n° 13/2003 du 19 août 2003) de la __Constitution Gabonaise__ sous un format plus adapté au monde du numérique. 
 
-Ce projet s'inscrit dans une volonté des jeunes Gabonais et africains en général, de batir des états modernes avec des institutions fortes et une transparence dans la gouvernance.
-
-Vous n'avez jamais lu le moindre article de la constitution ? Maintenant vous n'avez plus d'excuse pour ne pas le faire.
+Ce projet s'inscrit dans une volonté des jeunes Gabonais et Africains en général, de bâtir des états modernes avec des institutions fortes et une transparence dans la gouvernance.
 
 
 ### A propos

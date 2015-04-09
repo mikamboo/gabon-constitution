@@ -24,7 +24,7 @@ __Le Lab-241__
 
 Est un club de réflexion composé de jeunes Gabonais. Son but est de proposer des idées et de mettre en oeuvre des actions (aussi infimes soiet-elles) qui contribuent au dévéloppement du Gabon 
 
-__Lines utilies __
+__Liens utilies__
 
 * [Wiki - Git](https://fr.wikipedia.org/wiki/Git)
 * [Wiki - Gabon](https://fr.wikipedia.org/wiki/Gabon)

@@ -33,7 +33,7 @@
 * TITRE VI
 * TITRE VII
 * TITRE VIII
-* TITRE IX
+* [TITRE IX](titre_ix.md)
 * TITRE X
 * TITRE XI
 * TITRE XII

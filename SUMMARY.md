@@ -10,10 +10,6 @@
    * [Article 4](article_4.md)
 * [TITRE II](titre_ii.md)
    * [Article 8](article_8.md)
-   * [Article 9](article_9.md)
-   * [Article 10](article_10.md)
-   * [Article 11](article_11.md)
-   * Article 11a
 * [TITRE III](titre_iii.md)
    * [Article 35](article_35.md)
    * [Article 36](article_36.md)
@@ -21,6 +17,9 @@
    * [Article 38](article_38.md)
    * [Article 39](article_39.md)
    * [Article 40](article_40.md)
+   * [Article 41](article_41.md)
+   * [Article 42](article_42.md)
+   * Article 43
 * TITRE IV
 * TITRE V
 * TITRE VI

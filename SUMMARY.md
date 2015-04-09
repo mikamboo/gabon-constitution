@@ -21,7 +21,7 @@
    * [Article 42](article_42.md)
    * [Article 43](article_43.md)
    * [Article 44](article_44.md)
-   * Article 45
+   * [Article 45](article_45.md)
 * TITRE IV
 * TITRE V
 * TITRE VI

@@ -7,7 +7,7 @@ La constitution Gabonaise sous __Git__.
 
 Cet ouvrage est une reprise du texte (Révisée par la Loi n° 13/2003 du 19 août 2003) de la __Constitution Gabonaise__ sous un format plus adapté au monde du numérique. 
 
-Ce projet s'inscrit dans une volonté des jeunes Gabonais et Africains en général, de bâtir des états modernes avec des institutions fortes et une transparence dans la gouvernance.
+Ce projet s'inscrit dans une volonté des jeunes Gabonais et Africains en général, de bâtir des états modernes avec des institutions fortes et plus de transparence dans la gouvernance.
 
 
 ### A propos

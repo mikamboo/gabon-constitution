@@ -31,7 +31,7 @@
    * [Article 51](article_51.md)
    * [Article 52](article_52.md)
    * [Article 53](article_53.md)
-   * Article 54
+   * [Article 54](article_54.md)
 * TITRE V
 * TITRE VI
 * TITRE VII

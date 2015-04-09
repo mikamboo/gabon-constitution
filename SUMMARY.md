@@ -30,7 +30,7 @@
    * [Article 50](article_50.md)
    * [Article 51](article_51.md)
    * [Article 52](article_52.md)
-   * Article 53
+   * [Article 53](article_53.md)
 * TITRE V
 * TITRE VI
 * TITRE VII

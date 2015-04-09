@@ -29,6 +29,7 @@
    * [Article 49](article_49.md)
    * [Article 50](article_50.md)
    * Article 51
+   * Article 52
 * TITRE V
 * TITRE VI
 * TITRE VII

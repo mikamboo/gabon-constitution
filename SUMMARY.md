@@ -7,6 +7,7 @@
 * [TITRE Ier](titre_ier.md)
    * [Article 2](article_2.md)
    * [Article 3](article_3.md)
+   * Article 4
 * TITRE II
 * TITRE III
 * TITRE IV

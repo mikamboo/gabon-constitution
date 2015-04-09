@@ -16,6 +16,7 @@
    * [Article 37](article_37.md)
    * [Article 38](article_38.md)
    * [Article 39](article_39.md)
+   * Article 40
 * TITRE IV
 * TITRE V
 * TITRE VI

@@ -22,7 +22,7 @@ C'est un puissant dont les applications peuvent aller au delà du monde de l'inf
 
 __Le Lab-241__  
 
-Est un club de réflexion composé de jeunes Gabonais. Son but est de proposer des idées et de mettre en oeuvre des actions (aussi infimes soient-elles) qui contribuent au développement du Gabon. Le lab s'inscrit dans la dynamique des mouvements jeunes Africains qui veulent relever l'Afrique.
+Est un club de réflexion composé de jeunes Gabonais. Son but est de proposer des idées et de mettre en oeuvre des actions (aussi infimes soient-elles) qui contribuent au développement du Gabon. Le lab s'inscrit dans la dynamique des mouvements jeunes Africains qui veulent contribuer à l'essort d'une nouvelle Afrique.
 
 
 __Liens utilies__

@@ -16,9 +16,9 @@ __Git__
 
 Est un outil courament utilisé dans le monde de la programmation informatique pour gérer les versions du code source des applications. 
 
-> Git permet non seulement de visionner les sources a un instant T (snapshot), mais surtout de visualiser facilement les changements dans ces sources (commits). 
+> Git permet non seulement de visionner les sources a un instant T (snapshot), mais surtout de visualiser facilement les changements dans ces sources (commits), ou encore de créer de nouvelles branches à partir de l'existant. 
 
-C'est un puissant dont les applications peuvent aller au delà du monde de l'informatique. Appliqué aux textes tels que  __la constitution__, il peut facilement contribuer à répondre une exigence de modernité et de transparence qui va de pair avec notre époque.
+C'est un puissant outil dont les applications peuvent aller au delà du monde de l'informatique. Appliqué aux textes tels que  __la constitution__, il peut facilement contribuer à répondre une exigence de modernité et de transparence dans la grouvernance de notre époque.
 
 __Le Lab-241__  
 

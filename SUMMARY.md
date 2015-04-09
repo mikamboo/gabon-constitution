@@ -12,6 +12,7 @@
    * [Article 8](article_8.md)
 * [TITRE III](titre_iii.md)
    * [Article 35](article_35.md)
+   * Article 36
 * TITRE IV
 * TITRE V
 * TITRE VI

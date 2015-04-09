@@ -37,7 +37,8 @@
    * [Article 26](article_26.md)
    * [Article 27](article_27.md)
 * [TITRE II-2](titre_ii-2.md)
-
+   * [Article 28](article_28.md)
+   * [Article 28a](article_28a.md)
 * [TITRE III](titre_iii.md)
    * [Article 35](article_35.md)
    * [Article 36](article_36.md)

@@ -23,7 +23,7 @@
    * [Article 44](article_44.md)
    * [Article 45](article_45.md)
    * [Article 46](article_46.md)
-* TITRE IV
+* [TITRE IV](titre_iv.md)
 * TITRE V
 * TITRE VI
 * TITRE VII

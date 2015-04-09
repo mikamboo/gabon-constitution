@@ -1,6 +1,5 @@
-# Article Ier
+# Article premier
 
-Article premier
 La République gabonaise reconnaît et garantit les droits inviolables et imprescriptibles de l'Homme, qui lient obligatoirement les pouvoirs publics:
 
 1°) Chaque citoyen a droit au libre développement de sa personnalité, dans le
@@ -123,9 +122,7 @@ En temps de paix, les forces armées gabonaises peuvent participer aux travaux d
 développement économique et social de la nation;
 
 23°) Nul ne peut être arbitrairement détenu;
-Nul ne peut être gardé à vue ou placé sous mandat de dépôt s'il présente des
-garanties suffisantes de représentation, sous réserve des nécessités de sécurité et
-de procédure.
+Nul ne peut être gardé à vue ou placé sous mandat de dépôt s'il présente des garanties suffisantes de représentation, sous réserve des nécessités de sécurité et de procédure.
 Tout prévenu est présumé innocent jusqu'à l'établissement de sa culpabilité à la suite
 d'un procès régulier, offrant des garanties indispensables à sa défense.
 Le pouvoir judiciaire, gardien de la liberté individuelle, assure le respect de ces

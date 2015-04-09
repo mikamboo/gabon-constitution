@@ -10,7 +10,7 @@
    * [Article 4](article_4.md)
 * [TITRE II](titre_ii.md)
    * [Article 8](article_8.md)
-* TITRE III
+* [TITRE III](titre_iii.md)
 * TITRE IV
 * TITRE V
 * TITRE VI

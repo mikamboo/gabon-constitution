@@ -9,7 +9,7 @@
    * [Article 3](article_3.md)
    * [Article 4](article_4.md)
 * [TITRE II](titre_ii.md)
-   * Article 8
+   * [Article 8](article_8.md)
 * TITRE III
 * TITRE IV
 * TITRE V

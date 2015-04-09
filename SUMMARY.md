@@ -19,7 +19,7 @@
    * [Article 40](article_40.md)
    * [Article 41](article_41.md)
    * [Article 42](article_42.md)
-   * Article 43
+   * [Article 43](article_43.md)
 * TITRE IV
 * TITRE V
 * TITRE VI

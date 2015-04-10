@@ -68,7 +68,7 @@
    * [Article 58a](article_58a.md)
    * [Article 59](article_59.md)
    * [Article 60](article_60.md)
-   * Article 61
+   * [Article 61](article_61.md)
 * TITRE V
 * [TITRE VI](titre_vi.md)
    * [Article 83](article_83.md)

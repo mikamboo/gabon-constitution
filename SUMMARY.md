@@ -62,7 +62,7 @@
    * [Article 53](article_53.md)
    * [Article 54](article_54.md)
 * TITRE V
-* TITRE VI
+* [TITRE VI](titre_vi.md)
 * TITRE VII
 * TITRE VIII
 * [TITRE IX](titre_ix.md)

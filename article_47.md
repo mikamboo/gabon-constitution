@@ -1,7 +1,6 @@
 # Article 47
 
-En dehors des cas expressément prévus par la Constitution, la loi fixe les règles
-concernant:
+En dehors des cas expressément prévus par la Constitution, la loi fixe les règles concernant:
 
 *  l'exercice des droits fondamentaux et devoirs des citoyens;
 *  les sujétions imposées aux Gabonais et aux étrangers en leur personne et en
@@ -58,8 +57,6 @@ La loi détermine en outre les principes fondamentaux:
 *  de la mutualité et de l'épargne;
 *  de l'organisation générale de la défense nationale et de la sécurité publique.
 
-L'organisation administrative du territoire de la République est fixée par une loi
-organique.
+L'organisation administrative du territoire de la République est fixée par une loi organique.
 
-Les dispositions du présent article pourront être précisées ou complétées par une loi
-organique.
+Les dispositions du présent article pourront être précisées ou complétées par une loi organique.

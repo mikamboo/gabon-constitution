@@ -64,7 +64,7 @@
 * TITRE V
 * [TITRE VI](titre_vi.md)
    * [Article 83](article_83.md)
-   * Article 84
+   * [Article 84](article_84.md)
 * TITRE VII
 * TITRE VIII
 * [TITRE IX](titre_ix.md)

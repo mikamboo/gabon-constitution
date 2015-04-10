@@ -71,7 +71,7 @@
    * [Article 61](article_61.md)
    * [Article 62](article_62.md)
    * [Article 63](article_63.md)
-   * Article 64
+   * [Article 64](article_64.md)
 * TITRE V
 * [TITRE VI](titre_vi.md)
    * [Article 83](article_83.md)

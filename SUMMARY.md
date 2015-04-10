@@ -99,7 +99,7 @@
    * [Article 112a](article_112a.md)
    * [Article 112b](article_112b.md)
 * [TITRE X](titre_x.md)
-   * Article 113
+   * [Article 113](article_113.md)
 * TITRE XI
 * TITRE XII
 * TITRE XIII

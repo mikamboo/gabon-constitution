@@ -61,10 +61,6 @@
    * [Article 52](article_52.md)
    * [Article 53](article_53.md)
    * [Article 54](article_54.md)
-   * [Article 55](article_55.md)
-   * [Article 56](article_56.md)
-   * [Article 57](article_57.md)
-   * [Article 58](article_58.md)
 * TITRE V
 * [TITRE VI](titre_vi.md)
    * [Article 83](article_83.md)
@@ -99,8 +95,14 @@
    * [Article 110](article_110.md)
    * [Article 111](article_111.md)
 * [TITRE IX](titre_ix.md)
-* TITRE X
-* TITRE XI
+   * [Article 112](article_112.md)
+   * [Article 112a](article_112a.md)
+   * [Article 112b](article_112b.md)
+* [TITRE X](titre_x.md)
+   * [Article 113](article_113.md)
+   * [Article 114](article_114.md)
+* [TITRE XI](titre_xi.md)
+   * [Article 115](article_115.md)
 * TITRE XII
 * TITRE XIII
 

@@ -74,7 +74,7 @@
    * [Article 91](article_91.md)
    * [Article 92](article_92.md)
    * [Article 93](article_93.md)
-* TITRE VII
+* [TITRE VII](titre_vii.md)
 * TITRE VIII
 * [TITRE IX](titre_ix.md)
 * TITRE X

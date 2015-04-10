@@ -68,7 +68,7 @@
    * [Article 85](article_85.md)
    * [Article 86](article_86.md)
    * [Article 87](article_87.md)
-   * Article 88
+   * [Article 88](article_88.md)
 * TITRE VII
 * TITRE VIII
 * [TITRE IX](titre_ix.md)

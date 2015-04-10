@@ -65,7 +65,7 @@
    * [Article 56](article_56.md)
    * [Article 57](article_57.md)
    * [Article 58](article_58.md)
-   * Article 58 a
+   * [Article 58 a](article_58_a.md)
    * Article 59
 * TITRE V
 * [TITRE VI](titre_vi.md)

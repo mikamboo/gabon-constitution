@@ -65,7 +65,7 @@
 * [TITRE VI](titre_vi.md)
    * [Article 83](article_83.md)
    * [Article 84](article_84.md)
-   * Article 85
+   * [Article 85](article_85.md)
    * [Article 86](article_86.md)
 * TITRE VII
 * TITRE VIII

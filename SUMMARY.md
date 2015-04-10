@@ -87,7 +87,7 @@
    * [Article 73a](article_73a.md)
    * [Article 73b](article_73b.md)
 * [TITRE V-3](titre_v-3.md)
-   * Article 74
+   * [Article 74](article_74.md)
 * TITRE V-4
 * [TITRE VI](titre_vi.md)
    * [Article 83](article_83.md)

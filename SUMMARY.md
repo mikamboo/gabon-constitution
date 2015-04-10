@@ -105,6 +105,6 @@
    * [Article 115](article_115.md)
 * [TITRE XII](titre_xii.md)
    * [Article 116](article_116.md)
-   * Article 117
+   * [Article 117](article_117.md)
 * TITRE XIII
 

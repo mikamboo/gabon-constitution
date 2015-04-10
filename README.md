@@ -19,17 +19,13 @@ Cet ouvrage est une reprise du texte de la __Constitution Gabonaise__ sous un fo
 Ce projet s'inscrit dans une volonté des jeunes Gabonais et Africains en général, de bâtir des états modernes avec des institutions fortes et une meilleure transparence dans la gouvernance.
 
 
-__Git__  
-
-Est un outil couramment utilisé dans le monde de la programmation informatique pour gérer les versions du code source des applications. 
+__Git__ : est un outil couramment utilisé dans le monde de la programmation informatique pour gérer les versions du code source des applications. 
 
 > Git permet non seulement de visionner les sources a un instant T (snapshot), mais surtout de visualiser facilement les changements dans ces sources (commits), ou encore de créer de nouvelles branches à partir de l'existant. 
 
 C'est un puissant outil dont les applications peuvent aller au delà du monde de l'informatique. Appliqué aux textes tels que  __la constitution__, il peut facilement contribuer à répondre une exigence de modernité et de transparence dans la grouvernance de notre époque.
 
-__Le Lab-241__  
-
-Est un club de réflexion composé de jeunes Gabonais. Son but est de proposer des idées et de mettre en oeuvre des actions (aussi infimes soient-elles) qui contribuent au développement du Gabon. Le lab s'inscrit dans la dynamique des mouvements jeunes Africains qui veulent contribuer à l'essort d'une nouvelle Afrique.
+__Le Lab-241__ : est un club de réflexion composé de jeunes Gabonais. Son but est de proposer des idées et de mettre en oeuvre des actions (aussi infimes soient-elles) qui contribuent au développement du Gabon. Le lab s'inscrit dans la dynamique des mouvements jeunes Africains qui veulent contribuer à l'essort d'une nouvelle Afrique.
 
 ___
 

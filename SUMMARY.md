@@ -44,6 +44,7 @@
    * [Article 30](article_30.md)
    * [Article 31](article_31.md)
    * [Article 32](article_32.md)
+   * Article 33
 * [TITRE III](titre_iii.md)
    * [Article 35](article_35.md)
    * [Article 36](article_36.md)

@@ -84,7 +84,7 @@
    * [Article 100](article_100.md)
    * [Article 101](article_101.md)
    * [Article 102](article_102.md)
-* TITRE VIII
+* [TITRE VIII](titre_viii.md)
 * [TITRE IX](titre_ix.md)
 * TITRE X
 * TITRE XI

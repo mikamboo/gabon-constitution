@@ -81,7 +81,7 @@
    * [Article 69](article_69.md)
    * [Article 70](article_70.md)
    * [Article 71](article_71.md)
-   * Article 72
+   * [Article 72](article_72.md)
 * [TITRE V-2](titre_v-2.md)
    * [Article 73](article_73.md)
    * [Article 73a](article_73a.md)

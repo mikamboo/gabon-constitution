@@ -78,6 +78,7 @@
 * [TITRE V-1](titre_v-1.md)
    * [Article 67](article_67.md)
    * [Article 68](article_68.md)
+   * Article 69
 * [TITRE VI](titre_vi.md)
    * [Article 83](article_83.md)
    * [Article 84](article_84.md)

@@ -72,6 +72,7 @@
    * Article 89
    * Article 90
    * Article 91
+   * Article 92
 * TITRE VII
 * TITRE VIII
 * [TITRE IX](titre_ix.md)

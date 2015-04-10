@@ -93,7 +93,7 @@
    * [Article 75b](article_75b.md)
    * [Article 75c](article_75c.md)
 * [TITRE V-4](titre_v-4.md)
-   * Article 76
+   * [Article 76](article_76.md)
 * [TITRE VI](titre_vi.md)
    * [Article 83](article_83.md)
    * [Article 84](article_84.md)

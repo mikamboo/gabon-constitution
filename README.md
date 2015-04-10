@@ -1,7 +1,14 @@
 La constitution Gabonaise
 =======
 
-La constitution Gabonaise sous __Git__.
+
+| Revision | Date |
+| -- | -- |
+| Loi n° 13/2003 | 19 août 2003 |
+
+
+
+###La constitution Gabonaise sous __Git__.
 
 > Vous n'avez jamais lu le moindre article de la constitution ? Maintenant vous n'avez plus d'excuse pour ne pas le faire.
 

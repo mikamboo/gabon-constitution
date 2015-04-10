@@ -40,7 +40,7 @@
    * [Article 28](article_28.md)
    * [Article 28a](article_28a.md)
    * [Article 29](article_29.md)
-   * Article 29a
+   * [Article 29a](article_29a.md)
 * [TITRE III](titre_iii.md)
    * [Article 35](article_35.md)
    * [Article 36](article_36.md)

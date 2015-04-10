@@ -95,6 +95,7 @@
    * [Article 110](article_110.md)
    * [Article 111](article_111.md)
 * [TITRE IX](titre_ix.md)
+   * Article 112
 * TITRE X
 * TITRE XI
 * TITRE XII

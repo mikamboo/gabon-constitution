@@ -61,6 +61,7 @@
    * [Article 52](article_52.md)
    * [Article 53](article_53.md)
    * [Article 54](article_54.md)
+   * [Article 55](article_55.md)
 * TITRE V
 * [TITRE VI](titre_vi.md)
    * [Article 83](article_83.md)
@@ -95,9 +96,6 @@
    * [Article 110](article_110.md)
    * [Article 111](article_111.md)
 * [TITRE IX](titre_ix.md)
-   * [Article 112](article_112.md)
-   * [Article 112a](article_112a.md)
-   * [Article 112b](article_112b.md)
 * TITRE X
 * TITRE XI
 * TITRE XII

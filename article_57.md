@@ -1,7 +1,6 @@
 # Article 57
 
-L'ordre du jour du Parlement comporte la discussion des projets de loi déposés par le
-Gouvernement et des propositions de loi acceptées par lui.
+L'ordre du jour du Parlement comporte la discussion des projets de loi déposés par le Gouvernement et des propositions de loi acceptées par lui.
 
 Le Gouvernement est informé de l'ordre du jour des travaux des chambres et de leurs commissions.
 

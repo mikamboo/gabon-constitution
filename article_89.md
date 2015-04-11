@@ -7,9 +7,9 @@ La durée du mandat des Conseillers est de sept (7) ans renouvelable une fois.
 
 Les neuf membres de la Cour Constitutionnelle sont désignés comme suit:
 
-* trois par le Président de la République, dont le Président;
-* trois par le Président du Sénat,
-* trois par le Président de l'Assemblée Nationale.
+- trois par le Président de la République, dont le Président;
+- trois par le Président du Sénat,
+- trois par le Président de l'Assemblée Nationale.
 
 Chacune des autorités visées à l'alinéa précédent désigne obligatoirement deux (2) juristes dont au moins un magistrat. Celui-ci est choisi sur une liste d'aptitude établie par le Conseil Supérieur de la Magistrature.
 

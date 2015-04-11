@@ -74,8 +74,7 @@ calamités naturelles et nationales;
 
 21°) Chaque citoyen a le devoir de défendre la patrie et l'obligation de protéger et derespecter la Constitution, les lois et les règlements de la République;
 
-22°) La défense de la nation et la sauvegarde de l'ordre public sont assurées essentiellement par les forces de défense et de sécurité nationales. En conséquence, aucune personne, aucun groupement de personnes ne peuvent se
-constituer en milice privée ou groupement paramilitaire, les forces de défense et de sécurité nationales sont au service de l'État.
+22°) La défense de la nation et la sauvegarde de l'ordre public sont assurées essentiellement par les forces de défense et de sécurité nationales. En conséquence, aucune personne, aucun groupement de personnes ne peuvent se constituer en milice privée ou groupement paramilitaire, les forces de défense et de sécurité nationales sont au service de l'État.
 
 En temps de paix, les forces armées gabonaises peuvent participer aux travaux de développement économique et social de la nation;
 

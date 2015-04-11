@@ -1,7 +1,6 @@
 # Article 10
 
-Si, avant le scrutin, un des candidats décède ou se trouve empêché, la Cour
-Constitutionnelle prononce le report de l'élection.
+Si, avant le scrutin, un des candidats décède ou se trouve empêché, la Cour Constitutionnelle prononce le report de l'élection.
 
 La Cour Constitutionnelle peut proroger les délais prévus, conformément à l'article 11
 ci-après, sans que le scrutin puisse avoir lieu plus de trente cinq jours après la date

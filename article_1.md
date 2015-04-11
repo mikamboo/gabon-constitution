@@ -39,46 +39,30 @@ indépendante, sous réserve de respecter les principes de la souveraineté nati
 Les associations, partis ou formations politiques, syndicats, sociétés, établissements d'intérêt social, ainsi que les communautés religieuses dont les activités sont
 contraires aux lois, ou à la bonne entente des groupes ou ensembles ethniques peuvent être interdits selon les termes de la loi.
 
-Tout acte de discrimination raciale, ethnique ou religieuse, de même que toute
-propagande régionaliste pouvant porter atteinte à la sécurité intérieure ou extérieure
-de l'État ou à l'intégrité de la République sont punis par la loi;
+Tout acte de discrimination raciale, ethnique ou religieuse, de même que toute propagande régionaliste pouvant porter atteinte à la sécurité intérieure ou extérieure de l'État ou à l'intégrité de la République sont punis par la loi;
 
-14°) La famille est la cellule de base naturelle de la société, le mariage en est le
-support légitime. Ils sont placés sous la protection particulière de l'État;
+14°) La famille est la cellule de base naturelle de la société, le mariage en est le support légitime. Ils sont placés sous la protection particulière de l'État;
 
-15°) L'État a le devoir d'organiser un recensement général de la population tous les
-dix ans;
+15°) L'État a le devoir d'organiser un recensement général de la population tous les dix ans;
 
-16°) Les soins à donner aux enfants et leur éducation constituent pour les parents un
-droit naturel et un devoir qu'ils exercent sous la surveillance et avec l'aide de l'État et
-des collectivités publiques. Les parents ont le droit, dans le cadre de l'obligation
-scolaire, de décider de l'éducation morale et religieuse de leurs enfants. Les enfants
-ont vis-à-vis de l'État les mêmes droits en ce qui concerne aussi bien l'assistance
-que leur développement physique, intellectuel et moral;
+16°) Les soins à donner aux enfants et leur éducation constituent pour les parents un droit naturel et un devoir qu'ils exercent sous la surveillance et avec l'aide de l'État et des collectivités publiques. Les parents ont le droit, dans le cadre de l'obligation scolaire, de décider de l'éducation morale et religieuse de leurs enfants. Les enfants ont vis-à-vis de l'État les mêmes droits en ce qui concerne aussi bien l'assistance que leur développement physique, intellectuel et moral;
 
-17°) La protection de la jeunesse contre l'exploitation et contre l'abandon moral,
-intellectuel et physique, est une obligation pour l'État et les collectivités publiques;
+17°) La protection de la jeunesse contre l'exploitation et contre l'abandon moral, intellectuel et physique, est une obligation pour l'État et les collectivités publiques;
 
-18°) L'État garantit l'égal accès de l'enfant et de l'adulte à l'instruction, à la formation
-professionnelle et à la culture,
+18°) L'État garantit l'égal accès de l'enfant et de l'adulte à l'instruction, à la formationprofessionnelle et à la culture,
 
-19°) L'État a le devoir d'organiser l'enseignement public sur le principe de la
-neutralité religieuse et, selon ses possibilités, sur la base de la gratuité; la collation
+19°) L'État a le devoir d'organiser l'enseignement public sur le principe de la neutralité religieuse et, selon ses possibilités, sur la base de la gratuité; la collation
 des grades demeure la prérogative de l'État;
-Toutefois, la liberté de l'enseignement est garantie à tous. Toute personne peut
-ouvrir un établissement préscolaire, primaire, secondaire, supérieur ou une
+
+Toutefois, la liberté de l'enseignement est garantie à tous. Toute personne peut ouvrir un établissement préscolaire, primaire, secondaire, supérieur ou une
 université, dans les conditions fixées par la loi.
-La loi fixe les conditions de participation de l'État et des collectivités publiques aux
-charges financières des établissements privés d'enseignement, reconnus d'utilité
-publique.
-Dans les établissements publics d'enseignement, l'instruction religieuse peut être
-dispensée aux élèves à la demande de leurs parents, dans les conditions
-déterminées par les règlements.
-La loi fixe les conditions de fonctionnement des établissements d'enseignement privé
+
+La loi fixe les conditions de participation de l'État et des collectivités publiques aux charges financières des établissements privés d'enseignement, reconnus d'utilité
+publique. Dans les établissements publics d'enseignement, l'instruction religieuse peut être dispensée aux élèves à la demande de leurs parents, dans les conditions
+déterminées par les règlements. La loi fixe les conditions de fonctionnement des établissements d'enseignement privé
 en tenant compte de leur spécificité;
 
-20°) La nation proclame la solidarité et l'égalité de tous devant les charges publiques;
-chacun doit participer, en proportion de ses ressources, au financement des
+20°) La nation proclame la solidarité et l'égalité de tous devant les charges publiques; chacun doit participer, en proportion de ses ressources, au financement des
 dépenses publiques.
 La nation proclame en outre la solidarité de tous devant les charges qui résultent des
 calamités naturelles et nationales;

@@ -9,5 +9,4 @@ La proclamation de l'état d'alerte, par arrêté du Premier Ministre, a lieu ap
 délibération du Conseil des ministres et consultation des bureaux des deux
 chambres.
 
-La prorogation de l'état de mise en garde ou de l'état d'alerte au-delà de vingt et un
-jours est autorisée par le Parlement.
+La prorogation de l'état de mise en garde ou de l'état d'alerte au-delà de vingt et un jours est autorisée par le Parlement.

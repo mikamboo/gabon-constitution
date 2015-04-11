@@ -6,5 +6,4 @@ Affirme solennellement son attachement aux droits de l'homme et aux libertés fo
 
 Proclame solennellement son attachement à ses valeurs sociales profondes et traditionnelles, à son patrimoine culturel, matériel et spirituel, au respect des libertés, des droits et des devoirs du citoyen.
 
-
 En vertu de ces principes et de celui de la souveraineté des peuples, il adopte la présente Constitution.

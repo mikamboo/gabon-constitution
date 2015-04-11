@@ -1,5 +1,3 @@
 # Article 69
 
-Le Président de la République est le garant de l'indépendance du pouvoir judiciaire,
-dans le respect des dispositions de la présente Constitution, notamment en son
-article 36. Il est assisté du Conseil supérieur de la magistrature et des présidents de la Cour de cassation, du Conseil d'Etat et de la Cour des comptes.
+L’autorité judiciaire est exercée par le Conseil Supérieur de la Magistrature qui veille à la bonne administration de la justice et statue de ce fait sur les nominations, les affectations, les avancements et la discipline des Magistrats.

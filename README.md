@@ -4,7 +4,7 @@ La constitution Gabonaise
 
 | Revision | Date |
 | -- | -- |
-| Loi n° 13/2003 | 19 août 2003 |
+| Loi n° 047/2010 | 12 janvier 2011 |
 
 
 #### La constitution Gabonaise sous __Git__.

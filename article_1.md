@@ -58,30 +58,32 @@ Toutefois, la liberté de l'enseignement est garantie à tous. Toute personne pe
 université, dans les conditions fixées par la loi.
 
 La loi fixe les conditions de participation de l'État et des collectivités publiques aux charges financières des établissements privés d'enseignement, reconnus d'utilité
-publique. Dans les établissements publics d'enseignement, l'instruction religieuse peut être dispensée aux élèves à la demande de leurs parents, dans les conditions
-déterminées par les règlements. La loi fixe les conditions de fonctionnement des établissements d'enseignement privé
+publique.
+
+Dans les établissements publics d'enseignement, l'instruction religieuse peut être dispensée aux élèves à la demande de leurs parents, dans les conditions
+déterminées par les règlements.
+
+La loi fixe les conditions de fonctionnement des établissements d'enseignement privé
 en tenant compte de leur spécificité;
 
 20°) La nation proclame la solidarité et l'égalité de tous devant les charges publiques; chacun doit participer, en proportion de ses ressources, au financement des
 dépenses publiques.
+
 La nation proclame en outre la solidarité de tous devant les charges qui résultent des
 calamités naturelles et nationales;
 
-21°) Chaque citoyen a le devoir de défendre la patrie et l'obligation de protéger et de
-respecter la Constitution, les lois et les règlements de la République;
+21°) Chaque citoyen a le devoir de défendre la patrie et l'obligation de protéger et derespecter la Constitution, les lois et les règlements de la République;
 
-22°) La défense de la nation et la sauvegarde de l'ordre public sont assurées
-essentiellement par les forces de défense et de sécurité nationales. En
-conséquence, aucune personne, aucun groupement de personnes ne peuvent se
-constituer en milice privée ou groupement paramilitaire, les forces de défense et de
-sécurité nationales sont au service de l'État.
-En temps de paix, les forces armées gabonaises peuvent participer aux travaux de
-développement économique et social de la nation;
+22°) La défense de la nation et la sauvegarde de l'ordre public sont assurées essentiellement par les forces de défense et de sécurité nationales. En conséquence, aucune personne, aucun groupement de personnes ne peuvent se
+constituer en milice privée ou groupement paramilitaire, les forces de défense et de sécurité nationales sont au service de l'État.
+
+En temps de paix, les forces armées gabonaises peuvent participer aux travaux de développement économique et social de la nation;
 
 23°) Nul ne peut être arbitrairement détenu;
+
 Nul ne peut être gardé à vue ou placé sous mandat de dépôt s'il présente des garanties suffisantes de représentation, sous réserve des nécessités de sécurité et de procédure.
-Tout prévenu est présumé innocent jusqu'à l'établissement de sa culpabilité à la suite
-d'un procès régulier, offrant des garanties indispensables à sa défense.
-Le pouvoir judiciaire, gardien de la liberté individuelle, assure le respect de ces
-principes dans les délais fixés par la loi.
+
+Tout prévenu est présumé innocent jusqu'à l'établissement de sa culpabilité à la suite d'un procès régulier, offrant des garanties indispensables à sa défense.
+
+Le pouvoir judiciaire, gardien de la liberté individuelle, assure le respect de cesprincipes dans les délais fixés par  la loi.
 

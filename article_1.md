@@ -40,7 +40,7 @@ Tout acte de discrimination raciale, ethnique ou religieuse, de même que toute 
 
 14°) La famille est la cellule de base naturelle de la société, le mariage en est le support légitime. Ils sont placés sous la protection particulière de l'État;
 
-15°) L'État a le devoir d'organiser un recensement général de la population tous les dix ans;
+15°) L’Etat a le devoir d’organiser un recensement général de la population tous les dix ans;
 
 16°) Les soins à donner aux enfants et leur éducation constituent pour les parents un droit naturel et un devoir qu'ils exercent sous la surveillance et avec l'aide de l'État et des collectivités publiques. Les parents ont le droit, dans le cadre de l'obligation scolaire, de décider de l'éducation morale et religieuse de leurs enfants. Les enfants ont vis-à-vis de l'État les mêmes droits en ce qui concerne aussi bien l'assistance que leur développement physique, intellectuel et moral;
 

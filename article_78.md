@@ -2,7 +2,7 @@
 
 La Haute Cour de justice est une juridiction d'exception non permanente.
 
-Elle juge le Président de la République en cas de violation du serinent ou de haute
+Elle juge le Président de la République en cas de violation du serment ou de haute
 trahison.
 
 Le Président de la République est mis en accusation par le Parlement statuant à la majorité des deux tiers de ses membres, au scrutin public.
@@ -15,5 +15,4 @@ actes accomplis dans l'exercice de leurs fonctions et qualifiés de crimes ou d�
 Dans ce cas, la Haute Cour de justice est saisie, soit par le Président de la République, soit par les présidents des chambres du Parlement, soit par le Procureur Général près de la Cour de Cassation agissant d'office ou sur saisine de toute
 personne intéressée;
 
-Le Président de la République qui a cessé d'exercer ses fonctions ne peut être mis en cause, poursuivi, recherché, arrêté détenu ou jugé pour les faits définis par la loi
-organique prévue à l'article 81 de la Constitution.
+Le Président de la République qui a cessé d'exercer ses fonctions ne peut être mis en cause, poursuivi, recherché, arrêté détenu ou jugé pour les faits définis par la loi organique prévue à l'article 81 de la Constitution.

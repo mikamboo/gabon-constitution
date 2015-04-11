@@ -1,3 +1,4 @@
 # Article 119
 
-La présente loi qui abroge toutes dispositions antérieures sera enregistrée, publiée au Journal Officiel et exécutée comme loi de la République.
+La présente loi sera enregistrée, publiée selon la procédure d’urgence et exécutée comme loi
+de la République.

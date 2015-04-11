@@ -1,14 +1,11 @@
 # Article 108
 
-Sont membres du Conseil Économique et Social:
+Le Conseil Economique et Social se réunit chaque année de plein droit en deux sessions
+ordinaires de quinze jours chacune. La première session1 er FEVRIER 2011 - N°34 JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE s’ouvre le troisième mardi de février et la seconde, le premier mardi de septembre.
 
-* les représentants des syndicats, des associations ou groupements
-socioprofessionnels, élus par leurs associations ou groupements d'origine;
-* les cadres supérieurs de l'État dans le domaine économique et social;
-* les représentants des collectivités locales désignés par leurs pairs.
+L’ouverture de chaque session est reportée au lendemain si le jour prévu est non ouvrable.
 
-La durée du mandat des membres du Conseil Économique et Social est de cinq ans renouvelable;
+Si, hors session ordinaire, il est saisi d’un projet deloi de finances, le Conseil Economique et Social peut être
+convoqué en session extraordinaire pour une durée de dix jours au plus.
 
-En cas de décès ou de démission d'un membre, le nouveau membre représentant le secteur concerné achève le mandat commencé.
-
-Les anciens Vice-présidents de la République, les anciens Premiers ministres, et les anciens Présidents des chambres du parlement sont membres de droit du Conseil économique et social.
+Les séances du Conseil Economique et Social sont publiques

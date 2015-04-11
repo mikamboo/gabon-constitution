@@ -1,9 +1,9 @@
 # Article 109
 
-Le Conseil Économique et Social se réunit chaque année de plein droit en deux sessions ordinaires de quinze jours chacune. La première session s'ouvre le troisième mardi de février et la seconde, le premier mardi de septembre.
+Sont membres du Conseil Economique et Social :
 
-L'ouverture de chaque session est reportée au lendemain si le jour prévu est non ouvrable.
+- les représentants des syndicats, des associations ou groupements socioprofessionnels élus par leurs associations ou groupements d’origine;
+- les cadres supérieurs de l’Etat dans le domaine économique et social ;
+- les représentants des collectivités locales élus par leurs pairs;
 
-Si, hors session ordinaire, il est saisi d’un projet de loi de finances, le Conseil économique et social peut être convoqué en session extraordinaire pour une durée de dix jours au plus.
-
-Les séances du Conseil Économique et Social sont publiques.
+En cas de décès, de démission d’un membre, ou de perte de qualité dans son secteur d’origine, le nouveau membre concerné achève le mandat commencé.

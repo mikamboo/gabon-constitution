@@ -27,23 +27,20 @@ nationales ou les accords internationaux;
 
 11°) Tout gabonais a le droit de fixer librement son domicile ou sa résidence en un lieu quelconque du territoire national et d'y exercer toutes les activités, sous réserve du respect de l'ordre public et de la loi;
 
-12°) Le domicile est inviolable. Il ne peut être ordonné de perquisition que par le juge ou par les autres autorités désignées par la loi. Les perquisitions ne peuvent être
-exécutées que dans les formes prescrites pour celles-ci. Les mesures portant atteinte à l'inviolabilité du domicile ou la restreignant ne peuvent être prises que pour
-parer aux dangers collectifs ou protéger - l'ordre public de menaces imminentes, notamment pour lutter contre les risques d'épidémies ou pour protéger les personnes
+12°) Le domicile est inviolable. Il ne peut être ordonné de perquisition que par le juge ou par les autres autorités désignées par la loi. Les perquisitions ne peuvent être exécutées que dans les formes prescrites pour celles-ci. Les mesures portant atteinte à l'inviolabilité du domicile ou la restreignant ne peuvent être prises que pour parer aux dangers collectifs ou protéger - l'ordre public de menaces imminentes, notamment pour lutter contre les risques d'épidémies ou pour protéger les personnes
 en danger;
 
 13°) Le droit de former des associations, des partis ou formations politiques, des syndicats, des sociétés, des établissements d'intérêt social ainsi que des
 communautés religieuses, est garanti à tous dans les conditions fixées par la loi; les communautés religieuses règlent et administrent leurs affaires d'une manière
 indépendante, sous réserve de respecter les principes de la souveraineté nationale, l'ordre public et de préserver l'intégrité morale et mentale de l'individu.
 
-Les associations, partis ou formations politiques, syndicats, sociétés, établissements d'intérêt social, ainsi que les communautés religieuses dont les activités sont
-contraires aux lois, ou à la bonne entente des groupes ou ensembles ethniques peuvent être interdits selon les termes de la loi.
+Les associations, partis ou formations politiques, syndicats, sociétés, établissements d’intérêt social, ainsi que les communautés religieuses dont les activités sont contraires aux lois, aux bonnes mœurs ou à la bonne entente des groupes ou ensembles ethniques peuvent être interdits selon les termes de la loi.
 
 Tout acte de discrimination raciale, ethnique ou religieuse, de même que toute propagande régionaliste pouvant porter atteinte à la sécurité intérieure ou extérieure de l'État ou à l'intégrité de la République sont punis par la loi;
 
 14°) La famille est la cellule de base naturelle de la société, le mariage en est le support légitime. Ils sont placés sous la protection particulière de l'État;
 
-15°) L'État a le devoir d'organiser un recensement général de la population tous les dix ans;
+15°) L’Etat a le devoir d’organiser un recensement général de la population tous les dix ans;
 
 16°) Les soins à donner aux enfants et leur éducation constituent pour les parents un droit naturel et un devoir qu'ils exercent sous la surveillance et avec l'aide de l'État et des collectivités publiques. Les parents ont le droit, dans le cadre de l'obligation scolaire, de décider de l'éducation morale et religieuse de leurs enfants. Les enfants ont vis-à-vis de l'État les mêmes droits en ce qui concerne aussi bien l'assistance que leur développement physique, intellectuel et moral;
 

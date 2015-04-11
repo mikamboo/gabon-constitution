@@ -5,66 +5,40 @@ La République gabonaise reconnaît et garantit les droits inviolables et impres
 1°) Chaque citoyen a droit au libre développement de sa personnalité, dans le respect des droits d'autrui et de l'ordre public. Nul ne peut être humilié, maltraité ou torturé, même lorsqu'il est en état d'arrestation ou d'emprisonnement;
 
 2°) La liberté de conscience, de pensée, d'opinion, d'expression, de communication,
-la libre pratique de la religion, sont garanties à tous, sous réserve du respect de
-l'ordre public;
+la libre pratique de la religion, sont garanties à tous, sous réserve du respect de l'ordre public;
 
 3°) La liberté d'aller et venir à l'intérieur du territoire de la République gabonaise, d'en
-sortir et d'y revenir, est garantie à tous les citoyens gabonais, sous réserve du
-respect de l'ordre public;
+sortir et d'y revenir, est garantie à tous les citoyens gabonais, sous réserve du respect de l'ordre public;
 
-4°) Les droits de la défense, dans le cadre d'un procès, sont garantis à tous; la
-détention préventive ne doit pas excéder le temps prévu par la loi;
+4°) Les droits de la défense, dans le cadre d'un procès, sont garantis à tous; la détention préventive ne doit pas excéder le temps prévu par la loi;
 
-5°) Le secret de la correspondance, des communications postales, télégraphiques,
-téléphoniques et télématiques est inviolable. Il ne peut être ordonné de restriction à
-cette inviolabilité qu'en application de la loi, pour des raisons d'ordre public et de
-sécurité de l'État;
+5°) Le secret de la correspondance, des communications postales, télégraphiques, téléphoniques et télématiques est inviolable. Il ne peut être ordonné de restriction à cette inviolabilité qu'en application de la loi, pour des raisons d'ordre public et de sécurité de l'État;
 
-6°) Les limites de l'usage de l'informatique pour sauvegarder l'Homme, l'intimité
-personnelle et familiale des personnes, et le plein exercice de leurs droits, sont fixées
-par la loi;
+6°) Les limites de l'usage de l'informatique pour sauvegarder l'Homme, l'intimité personnelle et familiale des personnes, et le plein exercice de leurs droits, sont fixées par la loi;
 
-7°) Chaque citoyen a le devoir de travailler et le droit d'obtenir un emploi. Nul ne peut
-être lésé dans son travail en raison de ses origines, de son sexe, de sa race, de ses
-opinions;
+7°) Chaque citoyen a le devoir de travailler et le droit d'obtenir un emploi. Nul ne peut être lésé dans son travail en raison de ses origines, de son sexe, de sa race, de ses opinions;
 
-8°) L'État, selon ses possibilités, garantit à tous, notamment à l'enfant, à la mère, aux
-handicapés, aux vieux travailleurs et aux personnes âgées, la protection de la santé,
-la sécurité sociale, un environnement naturel préservé, le repos et les loisirs;
+8°) L'État, selon ses possibilités, garantit à tous, notamment à l'enfant, à la mère, aux handicapés, aux vieux travailleurs et aux personnes âgées, la protection de la santé, la sécurité sociale, un environnement naturel préservé, le repos et les loisirs;
 
-9°) Tout citoyen gabonais séjournant ou résidant à l'étranger bénéficie de la
-protection et de l'assistance de l'État, dans les conditions fixées par les lois
+9°) Tout citoyen gabonais séjournant ou résidant à l'étranger bénéficie de la protection et de l'assistance de l'État, dans les conditions fixées par les lois
 nationales ou les accords internationaux;
 
-10°) Toute personne, aussi bien seule qu'en collectivité, a droit à la propriété. Nul ne
-peut être privé de sa propriété, si ce n'est lorsque la nécessité publique, légalement
-constatée, l'exige et sous la condition d'une juste et préalable indemnisation;
-toutefois, les expropriations immobilières engagées pour cause d'utilité publique,
-pour insuffisance ou absence de mise en valeur, et visant les propriétés
-immatriculées, sont régies par la loi;
+10°) Toute personne, aussi bien seule qu'en collectivité, a droit à la propriété. Nul ne peut être privé de sa propriété, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige et sous la condition d'une juste et préalable indemnisation; toutefois, les expropriations immobilières engagées pour cause d'utilité publique, pour insuffisance ou absence de mise en valeur, et visant les propriétés immatriculées, sont régies par la loi;
 
-11°) Tout gabonais a le droit de fixer librement son domicile ou sa résidence en un
-lieu quelconque du territoire national et d'y exercer toutes les activités, sous réserve
-du respect de l'ordre public et de la loi;
+11°) Tout gabonais a le droit de fixer librement son domicile ou sa résidence en un lieu quelconque du territoire national et d'y exercer toutes les activités, sous réserve du respect de l'ordre public et de la loi;
 
-12°) Le domicile est inviolable. Il ne peut être ordonné de perquisition que par le juge
-ou par les autres autorités désignées par la loi. Les perquisitions ne peuvent être
-exécutées que dans les formes prescrites pour celles-ci. Les mesures portant
-atteinte à l'inviolabilité du domicile ou la restreignant ne peuvent être prises que pour
-parer aux dangers collectifs ou protéger - l'ordre public de menaces imminentes,
-notamment pour lutter contre les risques d'épidémies ou pour protéger les personnes
+12°) Le domicile est inviolable. Il ne peut être ordonné de perquisition que par le juge ou par les autres autorités désignées par la loi. Les perquisitions ne peuvent être
+exécutées que dans les formes prescrites pour celles-ci. Les mesures portant atteinte à l'inviolabilité du domicile ou la restreignant ne peuvent être prises que pour
+parer aux dangers collectifs ou protéger - l'ordre public de menaces imminentes, notamment pour lutter contre les risques d'épidémies ou pour protéger les personnes
 en danger;
 
-13°) Le droit de former des associations, des partis ou formations politiques, des
-syndicats, des sociétés, des établissements d'intérêt social ainsi que des
-communautés religieuses, est garanti à tous dans les conditions fixées par la loi; les
-communautés religieuses règlent et administrent leurs affaires d'une manière
-indépendante, sous réserve de respecter les principes de la souveraineté nationale,
-l'ordre public et de préserver l'intégrité morale et mentale de l'individu.
-Les associations, partis ou formations politiques, syndicats, sociétés, établissements
-d'intérêt social, ainsi que les communautés religieuses dont les activités sont
-contraires aux lois, ou à la bonne entente des groupes ou ensembles ethniques
-peuvent être interdits selon les termes de la loi.
+13°) Le droit de former des associations, des partis ou formations politiques, des syndicats, des sociétés, des établissements d'intérêt social ainsi que des
+communautés religieuses, est garanti à tous dans les conditions fixées par la loi; les communautés religieuses règlent et administrent leurs affaires d'une manière
+indépendante, sous réserve de respecter les principes de la souveraineté nationale, l'ordre public et de préserver l'intégrité morale et mentale de l'individu.
+
+Les associations, partis ou formations politiques, syndicats, sociétés, établissements d'intérêt social, ainsi que les communautés religieuses dont les activités sont
+contraires aux lois, ou à la bonne entente des groupes ou ensembles ethniques peuvent être interdits selon les termes de la loi.
+
 Tout acte de discrimination raciale, ethnique ou religieuse, de même que toute
 propagande régionaliste pouvant porter atteinte à la sécurité intérieure ou extérieure
 de l'État ou à l'intégrité de la République sont punis par la loi;

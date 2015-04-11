@@ -33,7 +33,7 @@ __Liens utilies__
 
 * [Wikipedia - Git](https://fr.wikipedia.org/wiki/Git)
 * [Wikipedia - Gabon](https://fr.wikipedia.org/wiki/Gabon)
-* [Contitution PDF](http://democratie.francophonie.org/IMG/pdf/Gabon.pdf) (Loi n° 13/2003 du 19 août 2003)
+* [Github du projet](https://github.com/africalab/gabon-constitution)
 
 __Remerciements à__
 

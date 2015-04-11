@@ -2,8 +2,7 @@
 
 La République gabonaise reconnaît et garantit les droits inviolables et imprescriptibles de l'Homme, qui lient obligatoirement les pouvoirs publics:
 
-1°) Chaque citoyen a droit au libre développement de sa personnalité, dans le
-respect des droits d'autrui et de l'ordre public. Nul ne peut être humilié, maltraité ou torturé, même lorsqu'il est en état d'arrestation ou d'emprisonnement;
+1°) Chaque citoyen a droit au libre développement de sa personnalité, dans le respect des droits d'autrui et de l'ordre public. Nul ne peut être humilié, maltraité ou torturé, même lorsqu'il est en état d'arrestation ou d'emprisonnement;
 
 2°) La liberté de conscience, de pensée, d'opinion, d'expression, de communication,
 la libre pratique de la religion, sont garanties à tous, sous réserve du respect de

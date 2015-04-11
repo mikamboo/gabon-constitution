@@ -10,8 +10,7 @@ L'intérim du Premier Ministre est assuré par un membre du Gouvernement désign
 par un décret du Président de la République, selon l'ordre de nomination du décret
 fixant la composition du Gouvernement.
 
-Le ministre assurant l'intérim du Premier Ministre est investi, à titre temporaire, de la
-plénitude des pouvoirs du Premier Ministre.
+Le ministre assurant l'intérim du Premier Ministre est investi, à titre temporaire, de la plénitude des pouvoirs du Premier Ministre.
 
 Les actes du Premier Ministre sont contresignés par les membres du Gouvernement
 chargés de leur exécution.

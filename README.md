@@ -38,9 +38,3 @@ __Remerciements à__
 
 * [@steeve](http://twitter.com/steeve) Qui a réalisé le [code civil français sous git](https://github.com/steeve/france.code-civil)
 * [@SamyPesse](https://twitter.com/SamyPesse) : Co-fondateur de GitBook. 
-
-__LICENSE__
-
-Tous les fichiers sont sous license [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
-
-

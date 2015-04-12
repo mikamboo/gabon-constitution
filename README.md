@@ -1,11 +1,9 @@
 La constitution Gabonaise
 =======
 
-
-| Revision | Date |
-| -- | -- |
-| Loi n° 047/2010 | 12 janvier 2011 |
-
+Revision        | Date            |
+--------------- | --------------- |
+Loi n° 047/2010 | 12 janvier 2011
 
 #### La constitution Gabonaise sous __Git__.
 

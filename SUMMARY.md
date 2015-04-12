@@ -1,7 +1,7 @@
 # Summary
 
 * [PREAMBULE](PREAMBULE.md)
-* [TITRE PRELIMINAIRE :  DES PRINCIPES ET DES DROITS FONDAMENTAUX.](titre_preliminaire__des_principes_et_des_droits_fondamentaux.md)
+* [TITRE PRELIMINAIRE](titre_preliminaire.md)
    * [Article Ier](article_1.md)
 * [TITRE Ier](titre_ier.md)
    * [Article 2](article_2.md)

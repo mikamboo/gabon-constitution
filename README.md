@@ -34,9 +34,9 @@ __Liens utilies__
 * [Wikipedia - Git](https://fr.wikipedia.org/wiki/Git)
 * [Wikipedia - Gabon](https://fr.wikipedia.org/wiki/Gabon)
 * [Github du projet](https://github.com/africalab/gabon-constitution)
+* [Lab-241](https://www.facebook.com/pages/Lab-241/141236286012661?ref=hl)
 
 __Remerciements à__
-
 
 * [@steeve](http://twitter.com/steeve) Qui a réalisé le [code civil français sous git](https://github.com/steeve/france.code-civil)
 * [@SamyPesse](https://twitter.com/SamyPesse) : Co-fondateur de GitBook. 
